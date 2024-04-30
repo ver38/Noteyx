@@ -13,7 +13,7 @@ struct NoteListView: View {
     @Environment(\.modelContext) private var context
     @Query(sort: \Note.createdAt, order: .reverse) var allNotes: [Note]
     @State private var noteText: String = ""
-    
+    // Hey Jude, don't make it bad
     
 var body: some View {
     NavigationStack {

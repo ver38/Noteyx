@@ -6,13 +6,13 @@ Super simple and clean notes app made just for fun and to learn how to save basi
 Made with Xcode & Swift.
 Frameworks: SwiftUI & SwiftData.
 
-Developer by Veronica Natale (@ver38)
+Developed by Veronica Natale (@ver38)
 
 
 ## License
 MIT License
 
-Copyright (c) [2024] [Veronica Natale - @ver38] 
+Copyright (c) [2023] [Veronica Natale - @ver38] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

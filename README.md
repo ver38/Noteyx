@@ -1,10 +1,4 @@
 
-# Prism Camera
-
-PrismCamera is a basic camera app that processes the input image to create a double-vision effect.
-
-
-
 
 ## Notes App
 Super simple and clean notes app made just for fun and to learn how to save basic data with SwiftData!
